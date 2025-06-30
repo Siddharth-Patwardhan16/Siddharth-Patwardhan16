@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/en-IN/view/mobile-app-architecture-mobile-app-development-mobile-application-gif-16573638" alt="mobile development gif" width="100%" />
+  <img src="https://tenor.com/en-IN/view/mobile-app-architecture-mobile-app-development-mobile-application-gif-16573638.gif" alt="mobile development gif" width="100%" />
 </p>
 
 
