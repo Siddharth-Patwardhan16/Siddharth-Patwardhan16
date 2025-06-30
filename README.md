@@ -1,4 +1,4 @@
-[![MasterHead][https://lottiefiles.com/free-animation/mobile-app-showcase-g4tU30UUcL](https://www.freepik.com/free-video/2d-woman-character-shopping-online-transparent-alpha-channel_3384173#fromView=search&page=1&position=30&uuid=7838d7fd-fcce-44b3-b182-cd1f37bf0d88]
+[![MasterHead]](https://www.freepik.com/free-video/2d-woman-character-shopping-online-transparent-alpha-channel_3384173#fromView=search&page=1&position=30&uuid=7838d7fd-fcce-44b3-b182-cd1f37bf0d88)
 
 <h1 align="center">Hi 👋, I'm Siddharth Patwardhan</h1>
 <h3 align="center">A passionate mobile developer</h3>
