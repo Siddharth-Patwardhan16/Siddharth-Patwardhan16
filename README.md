@@ -1,4 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mellodigital.com.au%2Fmobile-app-development%2F&psig=AOvVaw0LDUUR9n5WgmW-jAhOSgwb&ust=1751384542985000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDkqIa-mY4DFQAAAAAdAAAAABAL)]
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhpbHV2djN1dDgwZnRtaG5jZzQwb3ZmdjJoZHN1b2Q4bGR5czU0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" alt="mobile development gif" width="100%" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Siddharth Patwardhan</h1>
 <h3 align="center">A passionate mobile developer</h3>
