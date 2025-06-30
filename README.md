@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freepik.com/free-video/2d-woman-character-shopping-online-transparent-alpha-channel_3384173#fromView=search&page=1&position=30&uuid=7838d7fd-fcce-44b3-b182-cd1f37bf0d88)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mellodigital.com.au%2Fmobile-app-development%2F&psig=AOvVaw0LDUUR9n5WgmW-jAhOSgwb&ust=1751384542985000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDkqIa-mY4DFQAAAAAdAAAAABAL)]
 
 <h1 align="center">Hi 👋, I'm Siddharth Patwardhan</h1>
 <h3 align="center">A passionate mobile developer</h3>
